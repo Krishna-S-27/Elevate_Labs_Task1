@@ -4,8 +4,6 @@ A simple and interactive **Command Line Interface (CLI)** calculator written in 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.6%2B-blue?logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" />
-  <img src="https://img.shields.io/github/forks/Krishna-S-27/calculator.py?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/Krishna-S-27/calculator.py?style=social" alt="Stars" />
 </p>
 
 ---
